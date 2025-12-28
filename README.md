@@ -2,7 +2,7 @@
 
 A deep learning application that automatically generates descriptive captions for images. This project implements an **Encoder-Decoder** architecture where a pre-trained CNN extracts visual features and a Transformer model generates natural language descriptions.
 
-🚀 **[Link to your Streamlit App if hosted]**
+🚀 **[https://img-cap-system.streamlit.app/]**
 
 ## 🛠️ Features
 
